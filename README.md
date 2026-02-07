@@ -1,112 +1,70 @@
-# 🚀 Chemical Equipment Parameter Visualizer  
-### Hybrid Web + Desktop Application
+# Getting Started with Create React App
 
-A complete hybrid application built using **Django REST, React.js, and PyQt5** to analyze and visualize chemical equipment parameters from CSV files.  
-The project provides analytics, charts, tables, and PDF reports using a common backend API.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
----
+## Available Scripts
 
-## ✨ Key Features
+In the project directory, you can run:
 
-✅ CSV Upload from Web & Desktop  
-✅ Data Analytics using Pandas  
-✅ Interactive Charts  
-- Chart.js (Web)  
-- Matplotlib (Desktop)  
-✅ Summary Statistics API  
-✅ Last 5 Dataset History  
-✅ PDF Report Generation  
-✅ Clean & User-Friendly UI  
+### `npm start`
 
----
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## 🧱 Tech Stack
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-| Layer | Technology |
-|-----|------------|
-| Backend | Django + Django REST Framework |
-| Web Frontend | React.js + Chart.js |
-| Desktop Frontend | PyQt5 + Matplotlib |
-| Data Processing | Pandas |
-| Database | SQLite |
+### `npm test`
 
----
-## 📂 Project Structure
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-```bash
-chemical-visualizer/
-│
-├── backend/ # Django API
-├── web/ # React Application
-├── desktop/ # PyQt Application
-├── sample_equipment_data.csv
-└── README.md
-```
+### `npm run build`
 
----
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## ⚙️ Setup & Run
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### 1️⃣ Backend
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-```bash
-cd backend
-pip install -r requirements.txt
-python manage.py runserver
-```
-## 🔌 API Endpoints
+### `npm run eject`
 
-- **/api/upload/** – CSV Upload  
-- **/api/summary/** – Analytics & Statistics  
-- **/api/pdf/** – Generate PDF Report  
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
----
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## 🌐 Web Application
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-Run the React frontend:
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-```bash
-cd web
-npm install
-npm start
-```
-👉 Open in browser → http://localhost:3000
+## Learn More
 
-## 🖥 Desktop Application
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Run the PyQt application:
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-```bash
-cd desktop
-python app.py
-```
+### Code Splitting
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-## 📊 What It Does
+### Analyzing the Bundle Size
 
-### 📥 Input
-- Reads chemical equipment CSV file
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### 🧠 Calculations
-✔ Total equipment  
-✔ Average Flowrate  
-✔ Average Pressure  
-✔ Average Temperature  
-✔ Equipment Type Distribution  
+### Making a Progressive Web App
 
-### 📈 Displays
-🧾 Data Table  
-🥧 Pie Chart  
-📄 PDF Report  
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
----
+### Advanced Configuration
 
-## 🎯 Developed For
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-**FOSSEE Internship Screening Task**  
-💻 Hybrid Web + Desktop Application Challenge  
+### Deployment
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
