@@ -116,6 +116,17 @@ python app.py
 
 ---
 
+## 🖼 Screenshots
+
+### 🌐 Web Application Dashboard
+![Web Application](Screenshot 2026-02-08 190241.png)
+
+### 🖥 Desktop PyQt Application
+![Desktop Application](Screenshot 2026-02-08 190251.png)
+
+### 📄 PDF Report Preview
+![PDF Report](Screenshot 2026-02-08 190325.png)
+
 ## 🎯 Developed For
 
 **FOSSEE Internship Screening Task**  
