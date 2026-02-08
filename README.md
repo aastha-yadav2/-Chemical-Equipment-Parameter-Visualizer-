@@ -41,6 +41,20 @@ chemical-visualizer/
 ├── sample_equipment_data.csv
 └── README.md
 ```
+## 📦 Requirements
+
+- Python 3.10+
+- Node.js 16+
+- Django REST Framework
+- PyQt5
+- Pandas
+- Matplotlib
+## 🧩 Architecture
+
+- React & PyQt act as clients  
+- Django REST acts as common backend  
+- Pandas performs analytics  
+- SQLite stores last 5 datasets
 
 ---
 
@@ -106,5 +120,12 @@ python app.py
 
 **FOSSEE Internship Screening Task**  
 💻 Hybrid Web + Desktop Application Challenge  
+
+
+
+## 👩‍💻 Author
+Aastha Yadav
+B.Tech Student | Open Source Enthusiast
+
 
 
