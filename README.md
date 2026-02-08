@@ -125,7 +125,7 @@ python app.py
 ![Desktop Application](https://github.com/aastha-yadav2/-Chemical-Equipment-Parameter-Visualizer-/blob/main/Screenshot%202026-02-08%20190241.png)
 
 ### 📄 Chart Display
-![PDF Report]()
+![PDF Report](https://github.com/aastha-yadav2/-Chemical-Equipment-Parameter-Visualizer-/blob/main/Screenshot%202026-02-08%20190251.png)
 
 ## 🎯 Developed For
 
