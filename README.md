@@ -53,6 +53,68 @@ cd backend
 pip install -r requirements.txt
 python manage.py runserver
 ```
+## 🔌 API Endpoints
+
+- **/api/upload/** – CSV Upload  
+- **/api/summary/** – Analytics & Statistics  
+- **/api/pdf/** – Generate PDF Report  
+
+---
+
+## 🌐 Web Application
+
+Run the React frontend:
+
+```bash
+cd web
+npm install
+npm start
+```
+👉 Open in browser → http://localhost:3000
+
+## 🖥 Desktop Application
+
+Run the PyQt application:
+
+```bash
+cd desktop
+python app.py
+```
+
+---
+
+## 📊 What It Does
+
+### 📥 Input
+- Reads chemical equipment CSV file
+
+### 🧠 Calculations
+✔ Total equipment  
+✔ Average Flowrate  
+✔ Average Pressure  
+✔ Average Temperature  
+✔ Equipment Type Distribution  
+
+### 📈 Displays
+🧾 Data Table  
+🥧 Pie Chart  
+📄 PDF Report  
+
+---
+
+## 🎯 Developed For
+
+**FOSSEE Internship Screening Task**  
+💻 Hybrid Web + Desktop Application Challenge  
+
+---
+
+
+
+
+
+
+
 
 ## 📂 Project Structure
 
