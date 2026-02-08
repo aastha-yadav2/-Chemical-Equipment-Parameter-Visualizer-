@@ -119,13 +119,13 @@ python app.py
 ## 🖼 Screenshots
 
 ### 🌐 Web Application Dashboard
-![Web Application](Screenshot 2026-02-08 190241.png)
+![Web Application]()
 
 ### 🖥 Desktop PyQt Application
-![Desktop Application](Screenshot 2026-02-08 190251.png)
+![Desktop Application](https://github.com/aastha-yadav2/-Chemical-Equipment-Parameter-Visualizer-/blob/main/Screenshot%202026-02-08%20190241.png)
 
-### 📄 PDF Report Preview
-![PDF Report](Screenshot 2026-02-08 190325.png)
+### 📄 Chart Display
+![PDF Report]()
 
 ## 🎯 Developed For
 
