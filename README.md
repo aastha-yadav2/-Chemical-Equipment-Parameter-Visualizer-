@@ -119,7 +119,7 @@ python app.py
 ## 🖼 Screenshots
 
 ### 🌐 Web Application Dashboard
-![Web Application]()
+![Web Application](https://github.com/aastha-yadav2/-Chemical-Equipment-Parameter-Visualizer-/blob/main/Screenshot%202026-02-08%20190325.png)
 
 ### 🖥 Desktop PyQt Application
 ![Desktop Application](https://github.com/aastha-yadav2/-Chemical-Equipment-Parameter-Visualizer-/blob/main/Screenshot%202026-02-08%20190241.png)
