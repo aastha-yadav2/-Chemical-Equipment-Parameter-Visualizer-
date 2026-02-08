@@ -107,14 +107,4 @@ python app.py
 **FOSSEE Internship Screening Task**  
 💻 Hybrid Web + Desktop Application Challenge  
 
----
-
-
-
-
-
-
-
-
-## 📂 Project Structure
 
